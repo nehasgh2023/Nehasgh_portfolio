@@ -1,2 +1,2 @@
 # Nehasgh_portfolio
-Data Analyst Prtfolio projects
+Data Analyst Portfolio projects
